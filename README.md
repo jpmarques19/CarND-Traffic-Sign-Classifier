@@ -18,10 +18,10 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./random_signs.jpg "Visualization"
-[image2]: ./hist.jpg "Visualization-2"
-[image3]: ./grayscale.jpg "Grayscale"
-[image4]: ./signs_net.jpg "Traffic Signs"
+[image1]: ./random_signs.JPG "Visualization"
+[image2]: ./hist.JPG "Visualization-2"
+[image3]: ./grayscale.JPG "Grayscale"
+[image4]: ./signs_net.JPG "Traffic Signs"
 
 
 ---
